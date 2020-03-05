@@ -16,11 +16,11 @@
 
 
 
-<h3>Installation</h3>
+<h2>Installation</h2>
 I would recommend to download annoconda on your machine and seabon library.
 
 
-<h3>Project Motivation</h3>
+<h2>Project Motivation</h2>
 This is Coursera Caption project.The goal of this project is to find the ideal location to build new cinema in USA.We found this by
 asking few question listed below.
 
@@ -29,7 +29,7 @@ asking few question listed below.
 
 2. Customer purchase behaviour ?
 
-<h3>Tools Used and Data</h3>
+<h2>Tools Used and Data</h2>
 
 Foursquare API
 
@@ -45,7 +45,7 @@ The Wikipedia page (https://en.wikipedia.org/wiki/List_of_United_States_counties
 
 The Foursquare API is then used to get the venues in each city of United States Based on the categories of each venue as decided by the CEO, we have assigned weights to each of them and got the city that has the maximum weight.
 
-<h3>File Description</h3>
+<h2>File Description</h2>
 
 IntroductionBusiness Problem.pdf: Intros About Business Problem.
 
@@ -53,11 +53,11 @@ The battle of Neighbourhoods - Final Report.ipynb : The actual source code of da
 
 The battle of Neighbourhoods - Final Report.ipynb : Report and conclusion from the above data.
 
-<h3>Result</h3>
+<h2>Result</h2>
 
 Based on the given constraints, the green circle is ideal place to build the cinema for mass footfalls and revenue
 
-<h3>Licensing</h3>
+<h2>Licensing</h2>
 
 Big thanks to Coursera for this capstone project. I would also like to thank wikipedia for the data.
 
