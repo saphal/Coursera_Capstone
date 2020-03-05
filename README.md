@@ -24,6 +24,7 @@ I would recommend to download annoconda on your machine and seabon library.
 This is Coursera Caption project.The goal of this project is to find the ideal location to build new cinema in USA.We found this by
 asking few question listed below.
 
+
 1.Footfall of the location ?
 
 2. Customer purchase behaviour ?
@@ -31,11 +32,12 @@ asking few question listed below.
 <h3>Tools Used and Data</h3>
 
 Foursquare API
-Jupyter Notebook on local machine /IBM Watson Account
-List of United States countries by per capita income
-List of United States cities by population
 
-<storng>Data</strong>
+Jupyter Notebook on local machine /IBM Watson Account
+
+
+
+Data
 
 The Wikipedia page (https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population) was scraped using the BeautifulSoup library to build a pandas dataframe listing the cities, states, coordinates, area and population density. The dataframe was cleaned and processed appropriately.
 
