@@ -21,13 +21,10 @@ I would recommend to download annoconda on your machiney.
 
 
 <h2>Project Motivation</h2>
-This is Coursera Caption project.The goal of this project is to find the ideal location to build new cinema in USA.We found this by
-asking few question listed below.
+This is the Coursera Caption project. The goal of this project is to find the ideal location to build a new cinema in the USA. We found this by asking a few questions listed below.
 
-
-1.Footfall of the location ?
-
-2. Customer purchase behaviour ?
+<h4>1.Footfall of the location ?</h4>
+<h4>2. Customer purchase behaviour ?</h4>
 
 <h2>Tools Used and Data</h2>
 
