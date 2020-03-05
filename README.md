@@ -17,7 +17,7 @@
 
 
 <h2>Installation</h2>
-I would recommend to download annoconda on your machine and seabon library.
+I would recommend to download annoconda on your machiney.
 
 
 <h2>Project Motivation</h2>
@@ -49,7 +49,7 @@ The Foursquare API is then used to get the venues in each city of United States 
 
 IntroductionBusiness Problem.pdf: Intros About Business Problem.
 
-CAP.pdf, CAP.PPT: Business Plan in PDF and PPT format respectively
+CAP.pdf, CAP.PPT: Depth Business Plan  and metholody involved in PDF and PPT format respectively
 
 The battle of Neighbourhoods - Final Report.ipynb : The actual source code of data 
 
