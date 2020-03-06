@@ -4,7 +4,7 @@
 
 <h4>2. Project Motivation</h4>
 
-<h4>3. Project Motivation</h4>
+<h4>3. Data</h4>
 
 <h4>4. File Description</h4>
 
@@ -12,7 +12,7 @@
 
 <h4>6. Licensing, Authors, and Acknowledgements</h4>
 
-<h4>7. Blog Post</h4>
+<h4>7. Author</h4>
 
 
 
@@ -60,7 +60,10 @@ Based on the given constraints, the green circle is ideal place to build the cin
 
 Big thanks to Coursera for this capstone project. I would also like to thank wikipedia for the data.
 
-<h3>Blog Post</h3>
+<h3>Author</h3>
+Saphal Adhikari
+https://www.linkedin.com/in/saphaladhikari/
+https://medium.com/@franticarsenal
 
 
 
